@@ -1,0 +1,6 @@
+{
+    "serverUrl": "127.0.0.1",
+    "serverPort": 5678,
+    "htmlFile": "phrase.html",
+    "phraseFile": "phrase.txt"
+}
